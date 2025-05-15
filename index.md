@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: <Daniel D. Akinwale>
 ---
 
 ## About Me
@@ -9,8 +9,9 @@ title: <Your Name>
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is Daniel Akinwale, and I am Senior Undergraduate studying mechanical engineering at Cornell University. On campus I work in the Mechanical & Aerospace Engineering Machine Shop teahching students to use all sorts machining tools for metal, plexiglass, 3D printing. We use laser cutters, CNC machines, water jets, mills, lathes, band saws, and all sorts of other hand tools. I have interned at SRW Engineering & Architecture as a mechanical engineering intern as well as GlobalFoundries as a manufacturing optimization intern.    
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+I am detail-oriented with knowledge of methods design, process development, and prototyping. I'm eager to lend combined knowledge and skills to enhance business performance. I operate well in both individual and team capacities, leveraging seasoned work ethic to quickly adapt to different processes and drive project objectives. I'm resourceful and results-driven with a passion for growth and efficiency to meet company needs and increase the value of both my projects and myself.
+
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
