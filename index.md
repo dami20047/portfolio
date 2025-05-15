@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Daniel D. Akinwale>
+title: Daniel D. Akinwale
 ---
 
 ## About Me

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Daniel D. Akinwale> - Portfolio
+title: Daniel D. Akinwale - Portfolio
 permalink: /projects/
 ---
 
